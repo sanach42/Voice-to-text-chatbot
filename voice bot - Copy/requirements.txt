@@ -1,0 +1,10 @@
+streamlit
+streamlit-chat
+python-dotenv
+langchain
+openai
+gTTS
+SpeechRecognition
+playsound
+pyaudio
+pyttsx3
